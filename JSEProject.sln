@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.29709.97
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSEProject", "JSEProject\JSEProject.csproj", "{20A9BF77-2F47-4596-8E57-4570586C4A63}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSEContractsLayer", "JSEContractsLayer\JSEContractsLayer.csproj", "{B4F8D424-9D25-4397-BA89-3E5239515F95}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{3DEF5BC2-90EC-41C7-B16E-88F89096171C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{20A9BF77-2F47-4596-8E57-4570586C4A63}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{20A9BF77-2F47-4596-8E57-4570586C4A63}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{20A9BF77-2F47-4596-8E57-4570586C4A63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4F8D424-9D25-4397-BA89-3E5239515F95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4F8D424-9D25-4397-BA89-3E5239515F95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4F8D424-9D25-4397-BA89-3E5239515F95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4F8D424-9D25-4397-BA89-3E5239515F95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DEF5BC2-90EC-41C7-B16E-88F89096171C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DEF5BC2-90EC-41C7-B16E-88F89096171C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DEF5BC2-90EC-41C7-B16E-88F89096171C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DEF5BC2-90EC-41C7-B16E-88F89096171C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
